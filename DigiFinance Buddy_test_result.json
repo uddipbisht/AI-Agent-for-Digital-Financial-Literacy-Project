@@ -1,0 +1,11 @@
+{
+	"choices": [
+		{
+			"index": 0,
+			"message": {
+				"content": "Hi, I am DigiFinance Buddy.ai agent. How can I help you?",
+				"role": "assistant"
+			}
+		}
+	]
+}
