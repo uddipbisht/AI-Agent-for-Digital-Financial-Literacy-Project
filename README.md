@@ -111,10 +111,6 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 - 🔹 API References  
 - 🔹 Resources List  
 
-🎥 Recordings:  
-▶️ *Building*  
-▶️ *Testing & Deployment*
-
 ---
 
 ## 📌 How to Run or Deploy
@@ -162,7 +158,7 @@ This project is licensed under the **MIT License**.
 ## 🙋‍♂️ Connect
 
 👤 **UDDIP BISHT**  
+👤 **B.Tech CSE **
+👤 **Panipat Institute of Engineering & Technology College**
 💼 Created with 💙 during the **IBM SkillsBuild for Academia Internship 2025**  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com)
-
 ---
