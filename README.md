@@ -92,7 +92,9 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 
 1. **User asks** a query:  
    _"What is UPI and How do I use it to send money  via UPI ?"_<br>
-   _"What is a good interest rate for a personal loan ?"_
+   _"What is a good interest rate for a personal loan ?"_<br>
+   _"How can I safely transfer money online ?"_<br>
+   _"What should I do if I suspecta financial scam ?"_<br>
 
 3. **Granite LLM** processes input via Watsonx.ai
 
