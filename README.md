@@ -106,19 +106,26 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 
 ## 🖼️ Screenshots
 <br>
-- 🔹Setting Up<br>
+- 🔹Setting Up <br>
+
  ![Setting Up](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/5197e4437a61246b1c7521cff6c25e055aefea18/setup.png)
-- 🔹 Agent Instructions<br>
+- 🔹 Agent Instructions <br>
+
   ![Agent Instructions](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/agent_instructions.png)
-- 🔹 Quick Start Questions<br>
+- 🔹 Quick Start Questions <br>
+
   ![Quick Start Questions](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/quick_start_questions.png)
-- 🔹 Tools Used & Testing<br>
+- 🔹 Tools Used & Testing <br>
+
   ![Tools Used & Testing](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/tool_testing.png)
-- 🔹 Deployment & Preview<br>
+- 🔹 Deployment & Preview <br>
+
 ![Deployment & Preview](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/deployed2.png)
-- 🔹 API References<br>
+- 🔹 API References <br>
+
   ![API References](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/links.png)
 - 🔹 Resources List  <br>
+
 ![Resources List](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/resourses_list.png)
 
 ---
