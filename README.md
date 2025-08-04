@@ -106,7 +106,8 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 
 ## 🖼️ Screenshots
 
-- 🔹 Setting Up  
+- 🔹 ![Setting Up](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/5197e4437a61246b1c7521cff6c25e055aefea18/setup.png)
+
 - 🔹 Agent Instructions  
 - 🔹 Quick Start Questions  
 - 🔹 Tools Used & Testing  
