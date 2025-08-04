@@ -109,17 +109,17 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 - 🔹Setting Up
  ![Setting Up](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/5197e4437a61246b1c7521cff6c25e055aefea18/setup.png)
 - 🔹 Agent Instructions
-  
+  ![Agent Instructions](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/agent_instructions.png)
 - 🔹 Quick Start Questions
-  
+  ![Quick Start Questions](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/quick_start_questions.png)
 - 🔹 Tools Used & Testing
-  
+  ![Tools Used & Testing](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/tool_testing.png)
 - 🔹 Deployment & Preview
-  
+![Deployment & Preview](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/deployed2.png)
 - 🔹 API References
-  
+  ![API References](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/links.png)
 - 🔹 Resources List  
-
+![Resources List](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/resourses_list.png)
 
 ---
 
@@ -156,6 +156,21 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 - [RBI Official Website](https://www.rbi.org.in)  
 - [NPCI FAQs](https://www.npci.org.in)  
 - [IBM SkillsBuild](https://skillsbuild.org)  
+
+---
+##🖼️ IBM Certifications
+
+🔹 getting started with AI
+
+![getting started with AI](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/IBMDesign20250720-27-qapqgj.pdf)
+
+🔹 Journey to Cloud
+
+![Journey to Cloud](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/IBMDesign20250720-25-5apsyg.pdf)
+
+🔹 Journey to Cloud
+
+![RAG Lab](https://github.com/uddipbisht/AI-Agent-for-Digital-Financial-Literacy-Project/blob/3489adfb6872a9d1b1e078095c2a06c853cff18e/Completion%20Certificate%20_%20SkillsBuild.pdf)
 
 ---
 
