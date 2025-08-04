@@ -91,13 +91,14 @@ Using **multilingual support** and **RAG**, it ensures easy-to-understand and tr
 ## 🚀 How It Works
 
 1. **User asks** a query:  
-   _"How to avoid UPI fraud?"_
+   _"What is UPI and How do I use it to send money  via UPI ?"_<br>
+   _"What is a good interest rate for a personal loan ?"_
 
-2. **Granite LLM** processes input via Watsonx.ai
+3. **Granite LLM** processes input via Watsonx.ai
 
-3. **Vector Index** retrieves relevant financial document snippets
+4. **Vector Index** retrieves relevant financial document snippets
 
-4. **AI Agent** responds with a clear, trusted answer in user's preferred language
+5. **AI Agent** responds with a clear, trusted answer in user's preferred language
 
 ---
 
