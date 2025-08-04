@@ -158,7 +158,7 @@ This project is licensed under the **MIT License**.
 ## 🙋‍♂️ Connect
 
 👤 **UDDIP BISHT**  
-👤 **B.Tech CSE **
-👤 **Panipat Institute of Engineering & Technology College**
+👤 **B.Tech CSE **<BR>
+👤 **Panipat Institute of Engineering & Technology College**<BR>
 💼 Created with 💙 during the **IBM SkillsBuild for Academia Internship 2025**  
 ---
