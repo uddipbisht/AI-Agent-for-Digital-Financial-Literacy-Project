@@ -161,7 +161,7 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♂️ Connect
 
-👤 **Shiva Pandala**  
+👤 **UDDIP BISHT**  
 💼 Created with 💙 during the **IBM SkillsBuild for Academia Internship 2025**  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com)
 
